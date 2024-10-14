@@ -1,0 +1,33 @@
+#container1{
+	background-color: #1a5bbd;
+	text-align: center;
+}
+
+.container2{
+	background-color: #77edd5;
+	width:240px;
+	padding:30px;
+	margin:auto;
+	box-shadow: 2px 2px 15px rgba(250,251,252);
+
+}
+
+body{
+	background-image: url('https://img.freepik.com/free-vector/blue-green-background-with-blue-background-white-wave_483537-4181.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+#submit{
+	border-radius: 15px;
+	background-color:#5d17e8;
+	color: white;
+	font size: 30px;
+	cursor: pointer;
+}
+
+label{
+	font-size: 30px;
+	font-family: Consolas;
+}
